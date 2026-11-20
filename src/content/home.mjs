@@ -68,9 +68,9 @@ export const doctor = {
   chapter: 'Trajetória',
   label: 'Dr. Vinicius Marques Rodrigues',
   title: ['Uma trajetória', 'construída com', 'profundidade.'],
-  /* Fonte: initial-evidence-audit.md — CLIENT-REPORTED / VALIDATED (declaração do próprio médico). */
+  /* Fonte: currículo do Dr. Vinicius (2026-11-20). */
   intro:
-    'Cardiologista e eletrofisiologista, Dr. Vinicius atua em Goiânia com cardiologia clínica, arritmias e eletrofisiologia.',
+    'Cardiologista e eletrofisiologista, Dr. Vinicius atua há 23 anos em Goiânia com cardiologia clínica, arritmias e eletrofisiologia. É diretor médico da Vivenza Centro Médico.',
   cta: 'Conheça minha trajetória',
 };
 

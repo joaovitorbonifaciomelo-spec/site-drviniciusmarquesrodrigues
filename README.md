@@ -51,12 +51,11 @@ O build lista no terminal todo placeholder factual ainda não substituído (`ph(
 
 **Precisam de confirmação oficial antes de publicar**
 - CRM/GO 10224 · RQE 5073 (Cardiologia) · RQE 9036 (Eletrofisiologia) — fonte: perfil público (RR-02, *regulatory-research-execution.md*), **não verificados no CFM/CRM-GO**. `site.registry.verified = false`.
-- Formação — informada pelo próprio Dr. Vinicius (*initial-evidence-audit.md*): Medicina (Petrópolis), Clínica Médica (HCPM-RJ), Cardiologia/Eletrofisiologia (INC), fellowship (Hospital Clínic, Barcelona). Faltam nomes completos das instituições e anos (`trajectory.mjs → confirm`).
 
 **Não existem nas fontes**
 - WhatsApp, telefone, e-mail, canal/URL de agendamento (os CTAs levam a `#contato` enquanto isso).
 - Endereço, acesso e horários da Vivenza; o mapa só é inserido após o endereço (`home.mjs → vivenza.address.mapsQuery`).
-- Domínio final (`site.url`), texto da Política de Privacidade (LGPD), biografia editorial da página /trajetoria/.
+- Domínio final (`site.url`), texto da Política de Privacidade (LGPD).
 - Vídeo do hero e vídeo vertical do /bio/ (nenhum vídeo foi fornecido até agora).
 - Fotos: 6 dos 12 slots do site já usam o acervo real fornecido (ver "Fotografia e vídeo" abaixo); os demais 6 slots de imagem seguem como placeholder — nenhuma foto do acervo servia sem forçar (Hero/"escuta", "Próximo passo", Pausa Editorial, as três Áreas de Atuação).
 

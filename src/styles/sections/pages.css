@@ -226,3 +226,14 @@
 }
 
 .legal { padding: var(--s-8) var(--margin) var(--section); }
+
+/* Currículo (imagens das páginas do PDF) — /trajetoria/ */
+.cv {
+  margin-top: var(--s-6);
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--s-4);
+}
+.cv__page { display: block; border: 1px solid var(--line, rgba(0, 0, 0, 0.12)); background: #fff; }
+.cv__page img { display: block; width: 100%; height: auto; }
+.cv__link { margin-top: var(--s-6); }
